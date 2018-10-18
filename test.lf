@@ -1,0 +1,8 @@
+(print (echo (echo hi) (echo lol) (echo xd)))
+(print Created using LF)
+(setvar print3 Test Text Lohl)
+(print (getvar print3))
+(setvar print3 Testtext2)
+(print (getvar print3))
+(lfx testlfx)
+(test jhe)

@@ -1,0 +1,5 @@
+#!/data/data/com.termux/files/usr/bin/python3
+import liblf
+if __name__=="__main__":
+	import sys
+	liblf.run_file(sys.argv[1])
